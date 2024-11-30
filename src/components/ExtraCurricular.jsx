@@ -60,7 +60,7 @@ const ExtraCurricular = (props) => {
   return (
     <section id="extraCurricular">
       <h1 className="flex-1 font-poppins font-semibold ss:text-[50px] text-[45px] text-white ss:leading-[80px] leading-[80px]">
-        What My Clients and Colleagues Say About Me
+        Testimonials
       </h1>
 
       <div className={`${styles.flexCenter} flex-col relative mb-4 mt-8`}>
